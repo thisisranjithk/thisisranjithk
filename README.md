@@ -1,8 +1,8 @@
-Hello there!
-Ranjith K here.
-I'm a newcomer. Thiruvalluvar University awarded me a Bachelor of Computer Science degree.
-==>  I've been actively learning and honing my full-stack web development skills. My ambition is to find a good job where I can apply my knowledge and skills in a practical setting. 
-==> I've mastered front-end technologies like 
+--> Hello there!
+--> Ranjith K here.
+--> I'm a newcomer. Thiruvalluvar University awarded me a Bachelor of Computer Science degree.
+-->  I've been actively learning and honing my full-stack web development skills. My ambition is to find a good job where I can apply my knowledge and skills in a practical setting. 
+--> I've mastered front-end technologies like 
                               --> HTML
                               --> CSS
                               --> JavaScript
