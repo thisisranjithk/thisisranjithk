@@ -1,6 +1,6 @@
-##Hello there!
+Hello there!
 
-#Ranjith K here,
+Ranjith K here,
 
 As a Software Engineer specializing in React, I have a strong passion for building dynamic, user-friendly web applications. I focus on creating responsive and high-performance user interfaces using React, seamlessly integrating them with robust backend systems powered by Node.js and Express.
 
